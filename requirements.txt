@@ -1,3 +1,5 @@
 python-dotenv
 kagglehub
 pandas
+scikit-learn
+numpy
