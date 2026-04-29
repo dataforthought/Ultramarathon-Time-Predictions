@@ -1,6 +1,7 @@
-python-dotenv
-kagglehub
 pandas
 numpy
-scikit-learn>=1.3.0
-torch>=2.0.0
+matplotlib
+seaborn
+scikit-learn
+kagglehub
+python-dotenv
